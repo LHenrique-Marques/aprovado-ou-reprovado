@@ -33,5 +33,5 @@ elseif ($nota2 <=5) {
 elseif ($nota2 <7 and $nota >5) {
     $mensagem_if = "Você está em Recuperação!";
 }
-echo $mensagem_if
+echo $mensagem_if;
 ?>
