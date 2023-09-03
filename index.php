@@ -1,6 +1,6 @@
 <?php
 ///Com Switch
-$nota = 10;
+$nota = 6;
 switch ($nota) {
     case $nota >= 7:
         $mensagem = "Parabéns você foi aprovado!";
@@ -19,18 +19,19 @@ switch ($nota) {
 }
 echo $mensagem . "<hr>";
 ///Com if e else
-$nota2 = 8;
+$nota2 = 4;
 
 
 if ($nota2 >= 7) {
-    $mensagem_if = "Parabéns você foi aprovado!"
+    $mensagem_if = "Parabéns você foi aprovado!";
 }
 
 elseif ($nota2 <=5) {
-    $mensagem_if = "Você está Reprovado!"
+    $mensagem_if = "Você está Reprovado!";
 }
 
 elseif ($nota2 <7 and $nota >5) {
-    $mensagem_if = "Você está em Recuperação!"
+    $mensagem_if = "Você está em Recuperação!";
 }
+echo $mensagem_if
 ?>
