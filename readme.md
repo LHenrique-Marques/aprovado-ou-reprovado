@@ -1,6 +1,6 @@
 # Trabalho avaliativo de Programação Web
 ```
-> Status do trabalho : Em produção
+> Status do trabalho : Concluido
 Realize a seguinte condição
 
 Se o aluno tirou nota Maior ou igual a 7, está aprovado, se tirou nota menor que 5, está reprovado, senão o mesmo está em recuperação.
